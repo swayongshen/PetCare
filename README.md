@@ -2,7 +2,7 @@
 Hosted at: https://cs2102-project-group43.herokuapp.com (might take a while for Heroku to start)
 
 ## Intro: 
-PetCare is a web application which allows pet owners to be matched with care takers for their pets.
+PetCare is a web application which allows pet owners to be matched with care takers for their pets. The main aim of the project is to practice relational database techniques taught in class.
 [Click here to view our demo video!](https://youtu.be/vTUZEPjV1RM)
 
 ### Group 43
